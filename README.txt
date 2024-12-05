@@ -1,0 +1,1 @@
+create python virtual environment -> python -m venv /path/to/new/virtual/environment
